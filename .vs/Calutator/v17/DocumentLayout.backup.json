@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|c:\\users\\elena\\onedrive\\documente\\facultate-informatica\\an_2\\sem2\\map\\calutator\\calutator\\digitgrouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDC3A3-699F-4417-BFF6-4EC8B4EB5316}|Calutator\\Calutator.csproj|solutionrelative:calutator\\digitgrouping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calutator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calutator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAUwNAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:50:55.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programator.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\Programator.cs",
+              "RelativeDocumentMoniker": "Calutator\\Programator.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\Programator.cs",
+              "RelativeToolTip": "Calutator\\Programator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:29:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calutator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\MainWindow.xaml",
+              "RelativeToolTip": "Calutator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T18:50:57.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorLogic.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\CalculatorLogic.cs",
+              "RelativeDocumentMoniker": "Calutator\\CalculatorLogic.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\CalculatorLogic.cs",
+              "RelativeToolTip": "Calutator\\CalculatorLogic.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:59:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DigitGrouping.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\DigitGrouping.cs",
+              "RelativeDocumentMoniker": "Calutator\\DigitGrouping.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\DigitGrouping.cs",
+              "RelativeToolTip": "Calutator\\DigitGrouping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:45:01.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Calutator\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\AppSettings.cs",
+              "RelativeToolTip": "Calutator\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:36:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memory.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\Memory.cs",
+              "RelativeDocumentMoniker": "Calutator\\Memory.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Documente\\Facultate-INFORMATICA\\An_2\\sem2\\MAP\\Calutator\\Calutator\\Memory.cs",
+              "RelativeToolTip": "Calutator\\Memory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:35:06.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
